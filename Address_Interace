@@ -1,0 +1,4 @@
+Deploying from Account 0xEff35ADE01f8858c3Bd3dB21BE53b1a57c2E2D76
+[{"constant":false,"inputs":[{"name":"minMum","type":"uint256"}],"name":"createCampaighn","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"input
+s":[],"name":"getDeployedCampaigns","outputs":[{"name":"","type":"address[]"}],"payable":false,"stateMutability":"view","type":"function"}]
+Contract deployed to 0x7109Dbb3C0D4d0F994F497d51d9869405cD5661A
